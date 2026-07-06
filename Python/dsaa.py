@@ -41,24 +41,3 @@ node_2 = struc.gen_node(20)
 struc.generate_relation(node_1, node_2)
 
 print(GLOBAL_DICT)
-
-DICT_GRAPH = {}
-
-class Node:
-    def __init__(self, data):
-        self.data = data
-
-class Structure:
-    def create_node(self, data):
-        node = Node(data)  
-        return node   
-    def create_relation(self, A, B):
-
-            DICT_GRAPH [A] = [B]
-            
-struc = Structure()
-A = struc.create_node(10)
-B = struc.create_node(20)
-struc.create_relation(A, B)
-
-print(DICT_GRAPH)
