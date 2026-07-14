@@ -1,12 +1,17 @@
 SQL :
-    s                 q                   l
-    |                 |                   |
-structure           Query              Language
+│
+├── S → Structured
+├── Q → Query
+└── L → Language
+
+SQL stands for Structured Query Language.
+It is used to create, access, manage, retrieve, update, and delete data stored in a database.
 
 DB(data base), 
 DBE(data base enigne) , 
 DBMS(data bse management system)
 
+DBMS is used to store, organize, secure, and manage data efficiently.
 Easily ascess and in structure way from globally anywhere in multiple systems with security and
 handle the data easily that's why we use DBMS.
 
