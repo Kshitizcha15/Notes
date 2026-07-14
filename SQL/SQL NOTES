@@ -19,6 +19,12 @@ In dbms :
     attribute are coloums, feature and recored as rows.    
 when we create a data base there is DBNAME.
 
-Port is the point which allow specific data to transfer. point n point to another.
 
 
+Workbench work as a mediator.
+
+A Host is a computer, server, or device connected to a network that provides or receives services.
+A Port is a logical communication endpoint on a host.
+A Socket is the combination of a Host (IP address) and a Port Number.
+
+A Thread Pool is a collection of pre-created threads that are kept ready to execute tasks.
