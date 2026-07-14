@@ -1,13 +1,2 @@
-memory lane have memory cells that have values in it which have address in it represent in hexa numbers known as reference 
-the sequenseal data set have array, stack, queue, list, set 
-linked list is of three types  ... singally, doublly, circular.
-we use the pointing thing bcz in sequence we have a concept of garbage collection 
-slicing string - string
-dict-mapping
-functions - parameter and arguments
-*args allows a function to accept any number of positional arguments. - Use when you don't know how many arguments will be passed.
-**kwargs allows a function to accept any number of keyword arguments and stores them as a dictionary. - Use when you don't know how many keyword arguments will be passed.
-when we change one datatype to another known as type casting.
-
 "Wind surf (AGENT AI) for vs code" 
 

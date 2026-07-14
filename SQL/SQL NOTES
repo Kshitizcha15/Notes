@@ -1,0 +1,19 @@
+SQL :
+    s                 q                   l
+    |                 |                   |
+structure           Query              Language
+
+DB(data base), 
+DBE(data base enigne) , 
+DBMS(data bse management system)
+
+Easily ascess and in structure way from globally anywhere in multiple systems with security and
+handle the data easily that's why we use DBMS.
+
+In dbms :
+    attribute are coloums, feature and recored as rows.    
+when we create a data base there is DBNAME.
+
+Port is the point which allow specific data to transfer. point n point to another.
+
+
