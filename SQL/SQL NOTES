@@ -28,3 +28,17 @@ A Port is a logical communication endpoint on a host.
 A Socket is the combination of a Host (IP address) and a Port Number.
 
 A Thread Pool is a collection of pre-created threads that are kept ready to execute tasks.
+
+firewall : A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predefined security rules.
+firewall come before server .
+
+######
+Firewall: Protects a network by filtering incoming and outgoing traffic.
+PAM: Pluggable Authentication Modules used for flexible user authentication.
+SSM: A security management component (exact full form depends on the technology or syllabus).
+SSL/TLS: Protocols that encrypt network communication to ensure privacy and security.
+Firewall Trace: A log or diagnostic trace used to monitor and analyze firewall decisions and network traffic.
+######
+
+schema : A schema is the logical blueprint or structure of a database that defines how data is organized, including tables, columns, relationships, and constraints.
+
