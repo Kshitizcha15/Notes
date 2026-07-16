@@ -1,4 +1,4 @@
-SQL :
+## SQL :
 │
 ├── S → Structured
 ├── Q → Query
@@ -11,7 +11,8 @@ DB(data base),
 DBE(data base enigne) , 
 DBMS(data bse management system)
 
-DBMS is used to store, organize, secure, and manage data efficiently.
+## DBMS 
+is used to store, organize, secure, and manage data efficiently.
 Easily ascess and in structure way from globally anywhere in multiple systems with security and
 handle the data easily that's why we use DBMS.
 
@@ -21,7 +22,7 @@ when we create a data base there is DBNAME.
 
 
 
-Workbench work as a mediator.
+## Workbench work as a mediator.
 
 A Host is a computer, server, or device connected to a network that provides or receives services.
 A Port is a logical communication endpoint on a host.
@@ -29,7 +30,8 @@ A Socket is the combination of a Host (IP address) and a Port Number.
 
 A Thread Pool is a collection of pre-created threads that are kept ready to execute tasks.
 
-firewall : A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predefined security rules.
+## firewall : 
+A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predefined security rules.
 firewall come before server .
 
 ######
@@ -40,10 +42,17 @@ SSL/TLS: Protocols that encrypt network communication to ensure privacy and secu
 Firewall Trace: A log or diagnostic trace used to monitor and analyze firewall decisions and network traffic.
 ######
 
-schema : A schema is the logical blueprint or structure of a database that defines how data is organized, including tables, columns, relationships, and constraints.
+## schema :
+A schema is the logical blueprint or structure of a database that defines how data is organized, including tables, columns, relationships, and constraints.
 
+## key
 key is a medium to make relationship. (used to identify, organize, and connect records in one or more tables).
-primary key the main/unique key of the column in the table from which we identify the rows of the table.
+
+## primary key 
+the main/unique key of the column in the table from which we identify the rows of the table.
 there are two properties of primary key:
-    primary key is acting as a set .(unique elemennt)
-    ondelete cascade
+ 1.   primary key is acting as a set .(unique elemennt)
+ 2.   ondelete cascade
+
+## foreign key
+fk is connected with a table work as a primary key for another table.
