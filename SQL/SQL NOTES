@@ -56,3 +56,13 @@ there are two properties of primary key:
 
 ## foreign key
 fk is connected with a table work as a primary key for another table.
+
+## joints:
+combining data from two table on same column like primsary key.
+
+1. inner joint
+2. outer joint
+3. left joint
+4. right joint
+5. full outer joint
+important joint : natural joint , cross joint
