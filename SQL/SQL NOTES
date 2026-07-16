@@ -42,3 +42,8 @@ Firewall Trace: A log or diagnostic trace used to monitor and analyze firewall d
 
 schema : A schema is the logical blueprint or structure of a database that defines how data is organized, including tables, columns, relationships, and constraints.
 
+key is a medium to make relationship. (used to identify, organize, and connect records in one or more tables).
+primary key the main/unique key of the column in the table from which we identify the rows of the table.
+there are two properties of primary key:
+    primary key is acting as a set .(unique elemennt)
+    ondelete cascade
