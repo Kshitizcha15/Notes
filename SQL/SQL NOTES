@@ -58,7 +58,7 @@ there are two properties of primary key:
 fk is connected with a table work as a primary key for another table.
 
 ## joints:
-combining data from two table on same column like primsary key.
+combine data from two or more tables based on a common column. 
 
 1. inner joint
 2. outer joint
